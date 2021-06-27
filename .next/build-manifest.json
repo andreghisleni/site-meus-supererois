@@ -1,0 +1,62 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-a54b4f32bdc1ef890ddd.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/6gwv9_O_zzT2zifQntNfu/_buildManifest.js",
+    "static/6gwv9_O_zzT2zifQntNfu/_ssgManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-61095c13c5984b221292.js",
+      "static/chunks/framework-92300432a1172ef1338b.js",
+      "static/chunks/main-4777350f2a9ff73ea2b0.js",
+      "static/chunks/pages/index-80ec51b6bfc69d6a5b30.js"
+    ],
+    "/404": [
+      "static/chunks/webpack-61095c13c5984b221292.js",
+      "static/chunks/framework-92300432a1172ef1338b.js",
+      "static/chunks/main-4777350f2a9ff73ea2b0.js",
+      "static/chunks/pages/404-d3bbf25cab36e2af2e48.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-61095c13c5984b221292.js",
+      "static/chunks/framework-92300432a1172ef1338b.js",
+      "static/chunks/main-4777350f2a9ff73ea2b0.js",
+      "static/chunks/pages/_app-293f8c47d6957ff7aa4d.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-61095c13c5984b221292.js",
+      "static/chunks/framework-92300432a1172ef1338b.js",
+      "static/chunks/main-4777350f2a9ff73ea2b0.js",
+      "static/chunks/pages/_error-82a806cd39f8ab3dc3ac.js"
+    ],
+    "/community": [
+      "static/chunks/webpack-61095c13c5984b221292.js",
+      "static/chunks/framework-92300432a1172ef1338b.js",
+      "static/chunks/main-4777350f2a9ff73ea2b0.js",
+      "static/chunks/pages/community-085a969b25417c5a6229.js"
+    ],
+    "/creator": [
+      "static/chunks/webpack-61095c13c5984b221292.js",
+      "static/chunks/framework-92300432a1172ef1338b.js",
+      "static/chunks/main-4777350f2a9ff73ea2b0.js",
+      "static/chunks/pages/creator-7424638d2f78bf4577bc.js"
+    ],
+    "/the-avengers": [
+      "static/chunks/webpack-61095c13c5984b221292.js",
+      "static/chunks/framework-92300432a1172ef1338b.js",
+      "static/chunks/main-4777350f2a9ff73ea2b0.js",
+      "static/chunks/pages/the-avengers-07d657fb8af13326bf65.js"
+    ],
+    "/the-avengers/[id]": [
+      "static/chunks/webpack-61095c13c5984b221292.js",
+      "static/chunks/framework-92300432a1172ef1338b.js",
+      "static/chunks/main-4777350f2a9ff73ea2b0.js",
+      "static/chunks/pages/the-avengers/[id]-bd89c422295e204a6ff6.js"
+    ]
+  },
+  "ampFirstPages": []
+}

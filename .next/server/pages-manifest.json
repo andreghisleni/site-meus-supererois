@@ -1,0 +1,11 @@
+{
+  "/404": "pages/404.html",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/community": "pages/community.html",
+  "/creator": "pages/creator.html",
+  "/": "pages/index.html",
+  "/the-avengers/[id]": "pages/the-avengers/[id].js",
+  "/the-avengers": "pages/the-avengers.js",
+  "/_error": "pages/_error.js"
+}
